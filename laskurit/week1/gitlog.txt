@@ -1,5 +1,5 @@
 commit 1cb72ae808373dbb7a82b8e51c7ff6c9ad87fea5
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Tue Sep 27 13:02:22 2022 +0300
 
     File1 poistettu ja File2 uudelleennimetty File22:ksi
@@ -9,7 +9,7 @@ Date:   Tue Sep 27 13:02:22 2022 +0300
  2 files changed, 0 insertions(+), 0 deletions(-)
 
 commit 1e01a4d9606e062f1cf55783bbd7ec529f9d191a
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Tue Sep 27 12:31:29 2022 +0300
 
     Lisätty tiedostoja hakemisto ja sinne filet
@@ -20,7 +20,7 @@ Date:   Tue Sep 27 12:31:29 2022 +0300
  3 files changed, 0 insertions(+), 0 deletions(-)
 
 commit 85ffad6c839c729223acea821e855565a6b31259
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 19:32:25 2021 +0300
 
     Muutokset git add -p yksittäishyväksyntöjen jälkeen
@@ -30,7 +30,7 @@ Date:   Wed Oct 13 19:32:25 2021 +0300
  2 files changed, 4 insertions(+), 16 deletions(-)
 
 commit c78e191a8e75a16947d0960b10cfd43e2e132fbc
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 15:36:53 2021 +0300
 
     tiedosto.txt uudelleen nimetty nimelle eka.txt
@@ -39,7 +39,7 @@ Date:   Wed Oct 13 15:36:53 2021 +0300
  1 file changed, 0 insertions(+), 0 deletions(-)
 
 commit 8e764333190286ca1a9e0f58db9fcaab725c6873
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 15:27:52 2021 +0300
 
     Toinen tiedosto poistettu
@@ -48,7 +48,7 @@ Date:   Wed Oct 13 15:27:52 2021 +0300
  1 file changed, 1 deletion(-)
 
 commit fd2218b10fe918e0da04c176b5f203fe2e6b7918
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 13:58:53 2021 +0300
 
     Tekstiä muutettu
@@ -57,7 +57,7 @@ Date:   Wed Oct 13 13:58:53 2021 +0300
  1 file changed, 45 insertions(+), 13 deletions(-)
 
 commit d0ef45df188ab833bc500b59acb656c6298f68af
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 13:49:46 2021 +0300
 
     Paljon tekstiä
@@ -66,7 +66,7 @@ Date:   Wed Oct 13 13:49:46 2021 +0300
  1 file changed, 1120 insertions(+), 1 deletion(-)
 
 commit 9694f0b4bb40d758f48b95b25204c99651c66af7
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 00:13:56 2021 +0300
 
     Lisättiin stuff-kansio sisältöineen
@@ -75,7 +75,7 @@ Date:   Wed Oct 13 00:13:56 2021 +0300
  1 file changed, 0 insertions(+), 0 deletions(-)
 
 commit d9717108367340732515dea9ae3f280007d4cc9b
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 00:07:21 2021 +0300
 
     Muokattiin toista ja kolmatta tiedostoa
@@ -85,7 +85,7 @@ Date:   Wed Oct 13 00:07:21 2021 +0300
  2 files changed, 2 insertions(+)
 
 commit dee8cff74aec93225655efa0e40e8b473b85bdf1
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Wed Oct 13 00:02:47 2021 +0300
 
     Lisätään kolmas tiedosto
@@ -94,7 +94,7 @@ Date:   Wed Oct 13 00:02:47 2021 +0300
  1 file changed, 0 insertions(+), 0 deletions(-)
 
 commit 8673bd753047782c01617e0fc348ed525c90e653
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Tue Oct 12 20:59:39 2021 +0300
 
     muutos ja lisäys
@@ -104,7 +104,7 @@ Date:   Tue Oct 12 20:59:39 2021 +0300
  2 files changed, 1 insertion(+)
 
 commit fbb0742118da38081b8b94d946a4f2a096d16e93
-Author: MWE <fm***@yahoo.com>
+Author: MWE <fm***@***.com>
 Date:   Tue Oct 12 19:59:07 2021 +0300
 
     tiedosto.txt luotu
