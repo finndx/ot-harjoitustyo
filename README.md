@@ -8,5 +8,5 @@ Edellä olevat otsikot saadaan aikaan lisäämällä tekstin eteen risuaitamerkk
 
 Tekstin tehokeinoiksi **lihavoinnin** tai _kursiivin_ käyttö on myös yksinkertaista: lihavoitavan tekstin ympärille kirjoitetaan tupla-asteriskit tai tupla-alaviivat ja kursivoitavan tekstin ympärille kirjoitetaan asteriski tai alaviiva yhtenä kappaleena. Tekstiin voidaan myös kirjoittaa tehokeinoja sisäkkäisesti, eli esim. **lihavoidun tekstin keskellä _kursiivilla_ jotain tekstiä**. Tässä esimerkissä tekstialueen uloimpina markkereina käytetään tupla-asteriskeja ja sisempi kursivoitava teksti on ympäröity alaviivalla. Jos halutaan molemmat tehokeinot yhtaikaa, ***silloin pitää korostettava teksti ympäröidä tripla-asteriskilla.***
 
-[Gitlog](week1/gitlog.txt)
-[Hakemistopuu](komentorivi.txt)
+[Gitlog](laskurit/week1/gitlog.txt)
+[Hakemistopuu](laskurit/week1/komentorivi.txt)
