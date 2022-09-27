@@ -1,4 +1,4 @@
-# HARJOITUSTYÖ
+﻿# HARJOITUSTYÖ
 
 ## GIT-ympäristön harjoittelu
 
@@ -10,3 +10,5 @@ Tekstin tehokeinoiksi **lihavoinnin** tai _kursiivin_ käyttö on myös yksinker
 
 [Gitlog](laskurit/week1/gitlog.txt)
 [Hakemistopuu](laskurit/week1/komentorivi.txt)
+
+All rights reserved
